@@ -8,7 +8,7 @@ print()  # для отступа в консоли
 
 ## циферки
 
-any_num = 1  # int
+any_num = 1  # int 234234
 num = 2.4  # float
 
 total_num = any_num + num  # вообще пофиг на разные типы данных
